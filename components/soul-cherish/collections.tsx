@@ -10,17 +10,17 @@ const items = [
   {
     title: "Gourmet Nut Mix & Truffles",
     copy: "Hand-roasted nut medley paired with silky chocolate truffles for a balanced, indulgent tasting.",
-    img: "/images/soul-cherish/almond-hazelnut-truffle-arrangement.jpg",
+    img: "/SoulCherish/images/soul-cherish/almond-hazelnut-truffle-arrangement.jpg",
   },
   {
     title: "Pistachio Rose Praline Hamper",
     copy: "Fragrant pistachio pralines with rose-kissed notes, nestled among premium nut assortments.",
-    img: "/images/soul-cherish/pistachio-saffron-hamper.jpg",
+    img: "/SoulCherish/images/soul-cherish/pistachio-saffron-hamper.jpg",
   },
   {
     title: "Walnut Caramel Clusters",
     copy: "Buttery caramel and walnut clusters enrobed in chocolate—crisp, crackly, and deeply satisfying.",
-    img: "/images/soul-cherish/assorted-brittle-tray-marble.jpg",
+    img: "/SoulCherish/images/soul-cherish/assorted-brittle-tray-marble.jpg",
   },
   {
     title: "Ornate Truffles",
@@ -55,7 +55,7 @@ export default function Collections() {
             >
               <div className="overflow-hidden">
                 <img
-                  src={it.img || "/placeholder.svg"}
+                  src={it.img || "/SoulCherish/placeholder.svg"}
                   alt={it.title}
                   className="aspect-square w-full object-cover transition-transform duration-500 group-hover:scale-[1.05]"
                 />

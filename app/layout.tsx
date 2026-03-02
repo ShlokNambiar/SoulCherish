@@ -17,8 +17,8 @@ export const metadata: Metadata = {
   description: "Elegant, handcrafted nuts & chocolate hampers with ornamental design and premium ingredients.",
   generator: "v0.app",
   icons: {
-    icon: "/icon.svg",
-    apple: "/apple-icon.png",
+    icon: "/SoulCherish/icon.svg",
+    apple: "/SoulCherish/apple-icon.png",
   },
 }
 

@@ -19,7 +19,7 @@ export default function Artisan() {
         <div className="order-1 md:order-2">
           <div className="relative overflow-hidden rounded-2xl border border-(--color-border)">
             <img
-              src="/artisan-chocolatier-tempering-chocolate-on-marble.jpg"
+              src="/SoulCherish/artisan-chocolatier-tempering-chocolate-on-marble.jpg"
               alt="Chocolatier tempering chocolate on marble slab"
               className="w-full object-cover"
             />

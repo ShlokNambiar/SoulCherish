@@ -35,7 +35,7 @@ export default function Navbar() {
       >
         <Link href="/" className="inline-flex items-center gap-3 shrink-0">
           <Image
-            src="/images/soul-cherish/logo.jpg"
+            src="/SoulCherish/images/soul-cherish/logo.jpg"
             alt="Soul Cherish logo: ornate heart wreath with lotus"
             width={32}
             height={32}
